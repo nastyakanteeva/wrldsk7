@@ -1,0 +1,15 @@
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\bin\Debug\net6.0\wrldsk7.exe
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\bin\Debug\net6.0\wrldsk7.deps.json
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\bin\Debug\net6.0\wrldsk7.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\bin\Debug\net6.0\wrldsk7.dll
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\bin\Debug\net6.0\wrldsk7.pdb
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\obj\Debug\net6.0\wrldsk7.csproj.AssemblyReference.cache
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\obj\Debug\net6.0\wrldsk7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\obj\Debug\net6.0\wrldsk7.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\obj\Debug\net6.0\wrldsk7.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\obj\Debug\net6.0\wrldsk7.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\obj\Debug\net6.0\wrldsk7.dll
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\obj\Debug\net6.0\refint\wrldsk7.dll
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\obj\Debug\net6.0\wrldsk7.pdb
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\obj\Debug\net6.0\wrldsk7.genruntimeconfig.cache
+C:\Users\Nitro 5\source\repos\wrldsk7\wrldsk7\obj\Debug\net6.0\ref\wrldsk7.dll
